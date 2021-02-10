@@ -7,7 +7,7 @@ date: '2019-04-09'
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
 template: post
-title: mi viaje en el arte
+title: mi viaje en el arte de la danza
 ---
 
 ![Hiking](/images/2.jpg)
